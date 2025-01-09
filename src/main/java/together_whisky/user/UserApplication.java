@@ -1,4 +1,4 @@
-package together_wisky.user;
+package together_whisky.user;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

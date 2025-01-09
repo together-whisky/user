@@ -1,4 +1,4 @@
-package together_wisky.user;
+package together_whisky.user;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
